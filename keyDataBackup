@@ -1,0 +1,160 @@
+
+    var keyData = {
+        a:{
+            color = "#ffffff",
+            sound = new Howl({
+                    src: ['sounds/bubbles.mp3']
+                    })
+        },
+        b:{
+            color = "ffeedd",
+            sound = new Howl({
+                    src: ['sounds/piston-1.mp3']
+                    })
+        },
+        c:{
+            color = "eeddcc",
+            sound = new Howl({
+                    src: ['sounds/clay.mp3']
+                    })
+        },
+        d:{
+            color = "ddccff",
+            sound = new Howl({
+                    src: ['sounds/confetti.mp3']
+                    })
+        },
+        e:{
+            color = "ccddff",
+            sound = new Howl({
+                    src: ['sounds/corona.mp3']
+                    })
+        },
+        f:{
+            color = "aabbcc",
+            sound = new Howl({
+                    src: ['sounds/dotted-spiral.mp3']
+                    })
+        },
+        g:{
+            color = "cc11dd",
+            sound = new Howl({
+                    src: ['sounds/flash-1.mp3']
+                    })
+        },
+        h:{
+            color = "667722",
+            sound = new Howl({
+                    src: ['sounds/flash-2.mp3']
+                    })
+        },
+        i:{
+            color = "333333",
+            sound = new Howl({
+                    src: ['sounds/flash-3.mp3']
+                    })
+        },
+        j:{
+            color = "e4f22f",
+            sound = new Howl({
+                    src: ['sounds/glimmer.mp3']
+                    })
+        },
+        k:{
+            color = "brown",
+            sound = new Howl({
+                    src: ['sounds/moon.mp3']
+                    })
+        },
+        l:{
+            color = "gray",
+            sound = new Howl({
+                    src: ['sounds/pinwheel.mp3']
+                    })
+        },
+        m:{
+            color = "green",
+            sound = new Howl({
+                    src: ['sounds/piston-1.mp3']
+                    })
+        },
+        n:{
+            color = "red",
+            sound = new Howl({
+                    src: ['sounds/piston-2.mp3']
+                    })
+        },
+        o:{
+            color = "556633",
+            sound = new Howl({
+                    src: ['sounds/prism-1.mp3']
+                    })
+        },
+        p:{
+            color = "448891",
+            sound = new Howl({
+                    src: ['sounds/prism-2.mp3']
+                    })
+        },
+        q:{
+            color = "225545",
+            sound = new Howl({
+                    src: ['sounds/prism-3.mp3']
+                    })
+        },
+        r:{
+            color = "552278",
+            sound = new Howl({
+                    src: ['sounds/splits.mp3']
+                    })
+        },
+        s:{
+            color = "ee1155",
+            sound = new Howl({
+                    src: ['sounds/squiggle.mp3']
+                    })
+        },
+        t:{
+            color = "7788ee",
+            sound = new Howl({
+                    src: ['sounds/strike.mp3']
+                    })
+        },
+        u:{
+            color = "223355",
+            sound = new Howl({
+                    src: ['sounds/suspension.mp3']
+                    })
+        },
+        v:{
+            color = "lightblue",
+            sound = new Howl({
+                    src: ['sounds/timer.mp3']
+                    })
+        },
+        w:{
+            color = "eeff33",
+            sound = new Howl({
+                    src: ['sounds/ufo.mp3']
+                    })
+        },
+        x:{
+            color = "lightsalmon",
+            sound = new Howl({
+                    src: ['sounds/veil.mp3']
+                    })
+        },
+        y:{
+            color = "33cefe",
+            sound = new Howl({
+                    src: ['sounds/wipe.mp3']
+                    })
+        },
+        'z':{
+            color = "1122ff",
+            sound = new Howl({
+                    src: ['sounds/zig-zag.mp3']
+                    })
+        }
+        
+    };

@@ -1,6 +1,7 @@
-# patatap-game
-patatap game - made with paper.js and howler.js
+# Tapping Game
+### Made with paper.js and howler.js
 
-start by opening index.html
+Play music with your keyboard.
+Every key has a different music.
 
-then tap on any of the letters in the keyboards! :D
+Have fun :D
